@@ -1,0 +1,5 @@
+theme = light:GruvboxLightHard,dark:GruvboxDarkHard
+window-inherit-font-size = false
+
+keybind = global:ctrl+space=toggle_quick_terminal
+command = /opt/homebrew/bin/nu
