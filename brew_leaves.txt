@@ -1,0 +1,8 @@
+helix
+mpv
+nushell
+ripgrep
+rm-improved
+starship
+tealdeer
+zoxide
