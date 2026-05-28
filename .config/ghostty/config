@@ -4,7 +4,6 @@ font-feature = ss01,ss02,ss03,ss04,ss07,ss08
 bold-is-bright = true
 
 # Colors
-theme = light:Catppuccin Latte,dark:Catppuccin Mocha
+theme = Catppuccin Mocha
 
-focus-follows-mouse = true
 command = /opt/homebrew/bin/nu
