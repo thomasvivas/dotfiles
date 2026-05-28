@@ -146,11 +146,6 @@ $env.config = {
         use_ls_colors: true
     }
 
-    filesize: {
-        metric: true # true => KB false => KiB
-        format: "auto"
-    }
-
     cursor_shape: {
         emacs: line # block, underscore, line, blink_block, blink_underscore, blink_line, inherit to skip setting cursor shape (line is the default)
         vi_insert: block # block, underscore, line, blink_block, blink_underscore, blink_line, inherit to skip setting cursor shape (block is the default)
@@ -821,11 +816,7 @@ $env.config = {
 }
 
 alias st = networkQuality
-alias vid = yt-dlp -f mp4
-alias dots = git --git-dir ($env.HOME | path join ".dotfiles") --work-tree $env.HOME
-# I hate ts so much
-alias jc = nu -c "javac Main.java; java Main"
+alias df = yt-dlp
 
 use ~/.cache/starship/init.nu
 source ~/.zoxide.nu
-fastfetch
