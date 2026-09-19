@@ -1,9 +1,9 @@
 # Fonts
-font-family = Monaspace Neon
+font-family = Monaspace Xenon
 font-feature = ss01,ss02,ss03,ss04,ss07,ss08
-bold-is-bright = true
 
 # Colors
-theme = Catppuccin Mocha
+theme = Modus Vivendi
 
+# Shell
 command = /opt/homebrew/bin/nu
