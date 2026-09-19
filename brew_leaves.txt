@@ -1,5 +1,8 @@
 helix
+bat
 mpv
+exif
+gnupg
 nushell
 ripgrep
 rm-improved
